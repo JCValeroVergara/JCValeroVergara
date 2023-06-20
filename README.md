@@ -7,15 +7,18 @@ const JuanValero = {
   passion: ['web development'],
   code: ['JavaScript', 'HTML', 'CSS'],
   tools: ['React', 'Redux', 'Redux Toolkit', 'Node.js', 'Postgres', 'MySQL', 'MongoDB'],
-  description: "¡Hola, bienvenido a mi perfil de GitHub! 
-               Soy un apasionado desarrollador web Full-Stack con experiencia en todas las etapas 
-               del desarrollo de aplicaciones web."
+  description: "Hello, welcome to my GitHub profile! 
+                I am a passionate Full-Stack web developer with experience in all stages of web application development."
 }
 ```
  📫 How to reach me: ...
  📧 jvalero2009@gmail.com
  📞 (57) 3137127520
 
-- 💬 About me ... Soy un desarrollador web con experiencia en Backend, Frontend y bases de datos.🚀 Tengo sólidas habilidades
-en tecnologías como HTML, CSS, JavaScript, Node.js, Express, SQL, React y Redux. 🧭 Mi formación en ingeniería industrial y sistemas de gestión de calidad me brinda una perspectiva integral en el desarrollo web. ✔Estoy constantemente actualizado con las últimas tecnologías y mejores prácticas. Mi pasión por resolver problemas y aprender de forma continua me impulsa a ofrecer soluciones de alta calidad.🏃‍♂️ ¡Explora mis proyectos y contáctame para colaboraciones o nuevas oportunidades!
-🔭 Actualmente ... estoy realizando una pasantía como desarrollador en una startup canadiense, donde trabajo en el desarrollo de una aplicación.
+- 💬 About me ... I'm a web developer with experience in Backend, Frontend, and databases.🚀
+- I have strong skills in technologies such as HTML, CSS, JavaScript, Node.js, Express, SQL, React, and Redux.
+- 🧭 My background in industrial engineering and quality management systems provides me with a comprehensive perspective in web development.
+- ✔ I am constantly updated with the latest technologies and best practices.
+- My passion for problem-solving and continuous learning drives me to deliver high-quality solutions.🏃‍♂️
+- Explore my projects and feel free to contact me for collaborations or new opportunities!
+🔭 Currently... I'm doing an internship as a developer at a Canadian startup, where I am involved in the development of an application.
