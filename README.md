@@ -13,7 +13,7 @@ const JuanValero = {
 ```
  📫 How to reach me: ...
  📧 jvalero2009@gmail.com
- 📞 (57) 3137127520
+ 
 
 - 💬 About me ... I'm a web developer with experience in Backend, Frontend, and databases.🚀
 - I have strong skills in technologies such as HTML, CSS, JavaScript, Node.js, Express, SQL, React, and Redux.
