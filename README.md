@@ -12,7 +12,7 @@ const JuanValero = {
 }
 ```
  📫 How to reach me: ...
- 📧 jvalero2009@gmail.com
+ 📧 juankvalerov@gmail.com
  
 
 - 💬 About me ... I'm a web developer with experience in Backend, Frontend, and databases.🚀
