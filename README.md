@@ -5,8 +5,8 @@ const JuanValero = {
   pronouns: "he" | "his",
   technologies: 'web',
   passion: ['web development'],
-  code: ['JavaScript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux', 'Redux Toolkit', 'Node.js', 'Postgres', 'MySQL', 'MongoDB'],
+  code: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  tools: ['React', 'Node.js', 'Express', 'Nest', 'Redux', 'Redux Toolkit', 'Postgres', 'MySQL', 'MongoDB'],
   description: "Hello, welcome to my GitHub profile! 
                 I am a passionate Full-Stack web developer with experience in all stages of web application development."
 }
@@ -16,7 +16,7 @@ const JuanValero = {
  
 
 - 💬 About me ... I'm a web developer with experience in Backend, Frontend, and databases.🚀
-- I have strong skills in technologies such as HTML, CSS, JavaScript, Node.js, Express, SQL, React, and Redux.
+- I have strong skills in technologies such as HTML, CSS, JavaScript, Typescript, Node.js, Express, SQL, React, Nest.
 - 🧭 My background in industrial engineering and quality management systems provides me with a comprehensive perspective in web development.
 - ✔ I am constantly updated with the latest technologies and best practices.
 - My passion for problem-solving and continuous learning drives me to deliver high-quality solutions.🏃‍♂️
